@@ -7,8 +7,6 @@ In this workshop we'll build on things we've learnt so far by using the GitHub A
 - Working with large amounts of JSON-formatted data
 - DOM manipulation
 
-**Mentors** see [notes.md](./notes.md).
-
 ## Remember
 
 We are using browser-friendly, vanilla JavaScript. No promises!
@@ -83,7 +81,7 @@ What problems can you foresee?
 
 ### Challenge 2: adapt your app for different users!
 
-At the moment, your app is just getting data about one GitHub user. But what if you wanted to use it to compare everyone from Founders & Coders? Or to get data about a custom GitHub user? How might you adapt your application for this purpose?
+At the moment, your app is just getting data about one GitHub user. But what if you wanted to use it to compare everyone from G10? Or to get data about a custom GitHub user? How might you adapt your application for this purpose?
 
 Try and sketch out a plan!
 
